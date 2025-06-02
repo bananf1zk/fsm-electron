@@ -374,12 +374,9 @@ function output(text) {
 }
 
 function saveAsPNG() {
-	var oldSelectedObject = selectedObject;
-	selectedObject = null;
-	drawUsing(canvas.getContext('2d'));
-	selectedObject = oldSelectedObject;
-	var pngData = canvas.toDataURL('image/png');
-	document.location.href = pngData;
+	const canvas = document.querySelector('canvas');
+	const dataURL = canvas.toDataURL("image/png");
+	window.electronAPI.savePNG(dataURL);
 }
 
 function saveAsSVG() {
