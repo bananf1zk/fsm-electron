@@ -16,6 +16,7 @@
     "files": [
       "main.js",
       "www/index.html",
+      "preload.js",
       "src/**/*"
     ],
     "win": {
