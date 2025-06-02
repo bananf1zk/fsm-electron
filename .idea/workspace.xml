@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bbc1f5d-a11b-47ab-a935-5acc36924fe1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/_license.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/_license.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elements/link.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/elements/link.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elements/node.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/elements/node.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elements/self_link.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/elements/self_link.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elements/start_link.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/elements/start_link.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/elements/temporary_link.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/elements/temporary_link.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/export_as/latex.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/export_as/latex.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/export_as/svg.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/export_as/svg.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/fsm.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/main/fsm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/math.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/main/math.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/save.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/main/save.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2xx5UFGHlGHFnIlQGy5ZXXBurq2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "javascript.nodejs.core.library.configured.version": "22.16.0",
+    "javascript.nodejs.core.library.typings.version": "22.15.29",
+    "last_opened_file_path": "C:/Users/Yasper/Documents/GitHub/fsm-electron",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_interpreter_path": "C:/Users/Yasper/AppData/Roaming/JetBrains/WebStorm2025.1/node/versions/22.16.0/node",
+    "nodejs_package_manager_path": "npm",
+    "npm.start.executor": "Run",
+    "ts.external.directory.path": "C:\\Users\\Yasper\\AppData\\Local\\Programs\\WebStorm\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yasper\Documents\GitHub\fsm-electron\www" />
+      <recent name="C:\Users\Yasper\Sync\WebstormProjects\fsm-electron-app\www" />
+      <recent name="C:\Users\Yasper\Sync\WebstormProjects\fsm-electron-app" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bbc1f5d-a11b-47ab-a935-5acc36924fe1" name="Changes" comment="" />
+      <created>1748866899245</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748866899245</updated>
+      <workItem from="1748866900560" duration="5791000" />
+      <workItem from="1748873904719" duration="583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
