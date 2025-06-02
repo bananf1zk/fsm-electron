@@ -19,7 +19,7 @@ This is a **desktop version** of the original [FSM Designer](http://madebyevan.c
 
 ## 📦 Installation
 
-### Option 1: Prebuilt Installer (Recommended)
+### Option 1: Prebuilt Installer (Windows)
 
 1. Go to the [Releases page](https://github.com/bananf1zk/fsm-electron/releases)
 2. Download and run `FSM Electron App Setup 1.0.0.exe`
@@ -31,14 +31,29 @@ This is a **desktop version** of the original [FSM Designer](http://madebyevan.c
 2. Extract it anywhere
 3. Run `FSM Electron App.exe`
 
----
+### Option 3: macOS / Linux / Source Build
 
-## 🛠 Build It Yourself
-
-If you’d rather build from source:
+Currently, prebuilt `.dmg` and `.deb` files are not provided.  
+However, you can **build and run the app manually** from source:
 
 ```bash
 git clone https://github.com/bananf1zk/fsm-electron.git
 cd fsm-electron
 npm install
+```
+
+To run it directly:
+```bash
+npm start
+```
+
+To generate a platform-specific installer:
+```bash
 npm run dist
+```
+
+This will output:
+- `.dmg` for macOS
+- `.AppImage` or `.deb` for Linux
+
+> ⚠️ Make sure you have Node.js and npm installed. You do not need to install Electron globally — it is included as a dev dependency.

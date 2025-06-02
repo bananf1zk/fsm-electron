@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4bbc1f5d-a11b-47ab-a935-5acc36924fe1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/preload.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/fsm.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/fsm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,6 +23,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/Temp/b1b01e70-b1b7-4b92-a52b-e904c6d9711a_fsm-electron-1.0.0.zip.11a/fsm-electron-1.0.0/package.json" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
@@ -95,6 +97,7 @@
       <workItem from="1748866900560" duration="5791000" />
       <workItem from="1748873904719" duration="583000" />
       <workItem from="1748878533699" duration="1476000" />
+      <workItem from="1748885176124" duration="976000" />
     </task>
     <servers />
   </component>
