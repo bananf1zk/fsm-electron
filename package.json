@@ -7,9 +7,10 @@
     "dist": "electron-builder"
   },
   "build": {
-    "appId": "com.yourdomain.fsmapp",
-    "productName": "FSM Designer",
+    "appId": "com.electron.fsmapp",
+    "productName": "FSM Electron App",
     "directories": {
+      "output": "release",
       "buildResources": "assets"
     },
     "files": [
