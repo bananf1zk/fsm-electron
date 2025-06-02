@@ -15,7 +15,8 @@
     },
     "files": [
       "main.js",
-      "www/**/*"
+      "www/index.html",
+      "src/**/*"
     ],
     "win": {
       "target": "nsis"
